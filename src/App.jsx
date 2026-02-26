@@ -6,7 +6,9 @@ function App() {
 
   return (
     <>
-      <Hero></Hero>
+    <div className="min-h-screen m-0 p-0">
+      <Hero />
+    </div>
     </>
   )
 }
