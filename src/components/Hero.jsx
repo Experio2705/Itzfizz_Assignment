@@ -126,7 +126,7 @@ export default function Hero() {
                 <h2>Created by Aryan Shinde</h2>
                 <a href="https://portfolio-rho-olive-14.vercel.app/" className="mr-40 text-blue-800">Aryan_Portfolio</a>
             </div>
-            <h2 className="mt-4.5">&copy; 2026 Your Company Name. All rights reserved.</h2>
+            <h2 className="mt-4.5">&copy; 2026 Itzfizz Digital. All rights reserved.</h2>
         </div>
       </div>
       <img
